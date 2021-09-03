@@ -1,0 +1,3 @@
+# Project exclude paths
+/OneToManyBidirectional/target/
+/OneToManyUnidirectional/target/
